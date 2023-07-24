@@ -13,7 +13,7 @@ export class Relivent {
   }
 };
 ```
-<div align="center"><img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Visitor Counter"></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Visitor Counter"><img src="https://komarev.com/ghpvc/?username=relivent&color=70a5fd&style=for-the-badge" alt="Visitor Counter"></div>
 <h2 align="left">My Accounts</h2>
   <a href="https://instagram.com/relivent.dev" title="Instagram"><img alt="My Instagram Account" title="My Instagram Account" src="https://img.shields.io/badge/My%20Instagram%20Account-C13584.svg?logo=instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/808656625766236220" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/My%20Discord%20Account-blue.svg?logo=discord&logoColor=white"/></a>
@@ -39,7 +39,7 @@ export class Relivent {
 <br clear="both">
 <details>
   <summary><h2>My Github Stats</h2></summary>
-  <img src="https://streak-stats.demolab.com?user=reliventt&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=reliventt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reliventt&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Used Languages"/>
+  <img src="https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="My Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="My Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Used Languages"/>
 </details>
