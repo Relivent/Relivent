@@ -1,45 +1,35 @@
-<img src="https://cdn.discordapp.com/attachments/977912961312108584/1112147530902425610/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3937373931323936313331323130383538342f313131303135333436353438363930393435302f6769746875622d6865616465722d696d6167655f382e706e673f73697a653d34303936.png?size=4096" width="100%" alt="Banner">
-
-```js
-export class Relivent {
-  constructor() {
-    this.name = "Arda";
-    this.surname = "Öztürk";
-    this.nickname = "Relivent";
-    this.age = 18;
-    this.sex = "he",
-    this.job = "student",
-    this.languages: ["tr", "en", "de"],
-  }
-};
-```
-<div align="center"><img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Visitor Counter"><img src="https://komarev.com/ghpvc/?username=relivent&color=70a5fd&style=for-the-badge" alt="Visitor Counter"></div>
-<h2 align="left">My Accounts</h2>
-  <a href="https://instagram.com/relivent.dev" title="Instagram"><img alt="My Instagram Account" title="My Instagram Account" src="https://img.shields.io/badge/My%20Instagram%20Account-C13584.svg?logo=instagram&logoColor=white"/></a>
-  <a href="https://discord.com/users/808656625766236220" title="My Discord Account"><img alt="My Team Discord" title="My Discord Account" src="https://img.shields.io/badge/My%20Discord%20Account-blue.svg?logo=discord&logoColor=white"/></a>
-<img src="https://lanyard-profile-readme.vercel.app/api/808656625766236220?theme=dark&bg=1a1b27&borderRadius=8px&animated=true&hideDiscrim=true&hideStatus=false&hideTimestamp=false&hideBadges=false&hideProfile=false" alt="Lanyard Widget">
-<h2 align="left">👨‍💻 I'm Currently Working On</h2>
-<ul>
-  <li>My Old Projects</li>
-</ul>
-<h2 align="left">🔭 I'm Currently Learning</h2>
-<ul></ul>
-<h2 align="left">Technologies I Use</h2>
-<div align="left">
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JS"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TS"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32" height="32" alt="SASS"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="NodeJS"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="32" height="32" alt="Electron"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React"/></a>
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="32" height="32" alt="Express"/></a>
+# Hello 👋, I'm Relivent.
+<div>
+  <img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Old Visitor Counter">
+  <img src="https://komarev.com/ghpvc/?username=relivent&color=70a5fd&style=for-the-badge" alt="Visitor Counter">
 </div>
-<br clear="both">
-<details>
-  <summary><h2>My Github Stats</h2></summary>
-  <img src="https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Used Languages"/>
-</details>
+
+### 📝 About
+- My name is Arda, I live in Istanbul, Turkey
+- I'm a Full-Stack Developer
+- Personal Website: [https://relivent.dev (Soon)]()
+
+### 📞 Contact
+- Email: [relivent.social@gmail.com](mailto:relivent.social@gmail.com)
+- Discord: [relivent](https://discord.com/users/808656625766236220)
+- Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
+
+### 💻 Technologies I Use
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,electron,express,nodejs,sass,css,html,jquery,vite,webpack,mongo,cloudflare,discord,vscode,blender,photoshop&perline=19">
+
+### 👨‍💻 I'm Currently Working On
+- My Portfolio Website
+- My Old Projects
+- And a Few Secret Projects... 🤫
+
+### 🔭 I'm Currently Learning
+- Vue.JS
+
+<hr>
+
+### 📊 My Github Stats
+<div>
+  <img src="https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22" alt="My Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161B22" alt="My Stats"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=161B22" alt="Top Used Languages"/>
+</div>
