@@ -1,4 +1,3 @@
-# Hello 👋, I'm Relivent.
 <div>
   <img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Old Visitor Counter">
   <img src="https://komarev.com/ghpvc/?username=relivent&color=70a5fd&style=for-the-badge" alt="Visitor Counter">
