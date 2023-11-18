@@ -17,12 +17,9 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,electron,express,nodejs,sass,css,html,jquery,vite,webpack,mongo,cloudflare,discord,vscode,blender,photoshop&perline=19">
 
 ### 👨‍💻 I'm Currently Working On
-- My Personal Website
-- My Old Projects
 - A Few Secret Projects... 🤫
 
 ### 🔭 I'm Currently Learning
-- Vue.JS
 
 <hr>
 
