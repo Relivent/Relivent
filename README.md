@@ -5,8 +5,7 @@
 
 ### 📝 About
 - My name is Arda, I live in Istanbul, Turkey
-- I'm a Full-Stack Developer
-- Personal Website: [https://relivent.dev (Soon)]()
+- I'm a Student & Full-Stack Developer
 
 ### 📞 Contact
 - Email: [relivent.social@gmail.com](mailto:relivent.social@gmail.com)
@@ -14,9 +13,16 @@
 - Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
 
 ### 💻 Technologies I Use
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,electron,express,nodejs,sass,css,html,jquery,vite,webpack,mongo,cloudflare,discord,vscode,blender,photoshop&perline=19">
+- **Frontend:**<br>
+<img src="https://skillicons.dev/icons?i=javascript,html,css,sass,electron,react" title=""/><br>
+- **Backend:**<br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nextjs,webpack" title=""/><br>
+- **Services:**<br>
+<img src="https://skillicons.dev/icons?i=vscode,discord,cloudflare,mongo" title=""/><br>
 
 ### 👨‍💻 I'm Currently Working On
+- [Aquara Community Website](https://aquara.dev) (Soon)
+- [Aquara Community](https://discord.com/aquara)
 - A Few Secret Projects... 🤫
 
 ### 🔭 I'm Currently Learning
