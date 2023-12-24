@@ -26,6 +26,7 @@
 - A Few Secret Projects... 🤫
 
 ### 🔭 I'm Currently Learning
+- C#
 
 <hr>
 
