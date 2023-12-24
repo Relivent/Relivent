@@ -13,12 +13,7 @@
 - Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
 
 ### 💻 Technologies I Use
-- **Frontend:**<br>
-<img src="https://skillicons.dev/icons?i=javascript,html,css,sass,electron,react" title=""/><br>
-- **Backend:**<br>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,nextjs,webpack" title=""/><br>
-- **Services:**<br>
-<img src="https://skillicons.dev/icons?i=vscode,discord,cloudflare,mongo" title=""/><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,express,nodejs,electron,webpack,html,css,sass,mongo,cloudflare,vscode" title=""/>
 
 ### 👨‍💻 I'm Currently Working On
 - [Aquara Community Website](https://aquara.dev) (Soon)
