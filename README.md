@@ -8,7 +8,7 @@
 - I'm a Student & Full-Stack Developer
 
 ### 📞 Contact
-- Email: [relivent.social@gmail.com](mailto:relivent.social@gmail.com)
+- Email: [relivent.dev@gmail.com](mailto:relivent.dev@gmail.com)
 - Discord: [relivent](https://discord.com/users/808656625766236220)
 - Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
 
