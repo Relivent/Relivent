@@ -16,8 +16,6 @@
 <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,express,nodejs,electron,webpack,html,css,sass,mongo,cloudflare,vscode" title=""/>
 
 ### 👨‍💻 I'm Currently Working On
-- [Aquara Community Website](https://aquara.dev) (Soon)
-- [Aquara Community](https://discord.com/aquara)
 - A Few Secret Projects... 🤫
 
 ### 🔭 I'm Currently Learning
