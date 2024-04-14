@@ -18,9 +18,6 @@
 ### 👨‍💻 I'm Currently Working On
 - A Few Secret Projects... 🤫
 
-### 🔭 I'm Currently Learning
-- C#
-
 <hr>
 
 ### 📊 My Github Stats
