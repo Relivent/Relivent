@@ -9,7 +9,7 @@
 
 ### 📞 Contact
 - Email: [relivent.dev@gmail.com](mailto:relivent.dev@gmail.com)
-- Discord: [relivent](https://discord.com/users/808656625766236220)
+- Discord: [relivent](https://discord.com/users/746066222310883339)
 - Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
 
 ### 💻 Technologies I Use
