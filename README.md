@@ -6,7 +6,7 @@ Since 2018, I have been interested in software development.
 That year I started working on backend projects with JavaScript and I have been working on web development for more than 4 years.
 
 ### Technologies I Use
-![](https://skillicons.dev/icons?i=javascript,typescript,express,nextjs,react,html,css,sass,tailwind,electron,nodejs,cpp,mongo,git,vscode,photoshop&perline=8)
+![](https://skillicons.dev/icons?i=typescript,nextjs,express,electron,nodejs,cpp,mongodb,vscode,javascript,react,html,css,sass,tailwind,git,photoshop&perline=8)
 
 ### Contact
 You can reach me on [Discord](https://discord.com/users/746066222310883339), [Instagram](https://instagram.com/reliventdev) or relivent.dev@gmail.com.
