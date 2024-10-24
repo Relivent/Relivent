@@ -1,28 +1,20 @@
-<div>
-  <img src="https://komarev.com/ghpvc/?username=reliventt&color=70a5fd&style=for-the-badge" alt="Old Visitor Counter">
-  <img src="https://komarev.com/ghpvc/?username=relivent&color=70a5fd&style=for-the-badge" alt="Visitor Counter">
-</div>
+## Hello there 👋 I'm Arda.
+I am 19 years old, I live in Turkey and I am a university student.
 
-### 📝 About
-- My name is Arda, I live in Istanbul, Turkey
-- I'm a Student & Full-Stack Developer
+Since 2018, I have been interested in software development.
+\
+That year I started working on backend projects with JavaScript and I have been working on web development for more than 4 years.
 
-### 📞 Contact
-- Email: [relivent.dev@gmail.com](mailto:relivent.dev@gmail.com)
-- Discord: [relivent](https://discord.com/users/746066222310883339)
-- Instagram: [@relivent.dev](https://www.instagram.com/relivent.dev/)
+### Technologies I Use
+![](https://skillicons.dev/icons?i=javascript,typescript,express,nextjs,react,html,css,sass,tailwind,electron,nodejs,cpp,mongo,git,vscode,photoshop&perline=8)
 
-### 💻 Technologies I Use
-<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,express,nodejs,electron,webpack,html,css,sass,mongo,cloudflare,vscode" title=""/>
-
-### 👨‍💻 I'm Currently Working On
-- A Few Secret Projects... 🤫
-
-<hr>
-
-### 📊 My Github Stats
-<div>
-  <img src="https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161B22" alt="My Stats"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=161B22" alt="Top Used Languages"/>
-</div>
+### Contact
+You can reach me on [Discord](https://discord.com/users/746066222310883339), [Instagram](https://instagram.com/reliventdev) or relivent.dev@gmail.com.
+\
+\
+[![](https://visitor-badge.laobi.icu/badge?page_id=Relivent)](#)
+\
+\
+![](https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22)
+![](https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161B22)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=161B22)
