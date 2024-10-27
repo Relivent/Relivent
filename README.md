@@ -15,6 +15,8 @@ You can reach me on [Discord](https://discord.com/users/746066222310883339), [In
 [![](https://visitor-badge.laobi.icu/badge?page_id=Relivent)](#)
 \
 \
-![](https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22)
-![](https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161B22)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=relivent&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=10&bg_color=161B22)
+\
+![](https://github-readme-stats.vercel.app/api?username=relivent&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=161B22)
+\
+![](https://streak-stats.demolab.com?user=relivent&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22)
